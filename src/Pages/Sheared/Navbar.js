@@ -63,7 +63,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <Link className="btn mx-2" to="/services">
+        <Link className="btn mx-2" to="/login">
           Book Now
         </Link>
       </div>
